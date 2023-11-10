@@ -6,4 +6,4 @@ draft = false
 +++
 # C'est troop cool
 ## *Gabimaru le vide*
-!(C:\Users\acer\Downloads\hugo_0.120.4_windows-amd64\497163.jpg)
+![](https://cdn.myanimelist.net/images/characters/5/497163.jpg)
